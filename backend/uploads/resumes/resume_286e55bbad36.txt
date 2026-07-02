@@ -1,0 +1,25 @@
+Alex Taylor
+Senior Data Engineer
+
+Summary
+Data engineer with 6 years of experience building analytics platforms and ML data pipelines.
+
+Skills
+Python, SQL, Apache Spark, Airflow, AWS (S3, Redshift, Glue), dbt, Docker, Kubernetes, data modeling.
+
+Work Experience
+- Data Engineer, Acme Analytics (2019-2024): Built a real-time analytics dashboard pipeline processing 2B events/day. Led migration to Spark reducing costs 35%.
+- Data Analyst, DataCorp (2018-2019): Built SQL reporting for finance teams.
+
+Projects
+- Real-time fraud detection feature store using Kafka and Redshift.
+- Self-serve analytics dashboard adopted by 12 internal teams.
+
+Certifications
+- AWS Certified Data Analytics - Specialty
+
+Education
+B.S. in Computer Science, State University (2018)
+
+Leadership
+Mentored 3 junior engineers; led a 4-person data platform team.
